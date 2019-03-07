@@ -1,6 +1,6 @@
 截图：
 
-        ![Image text](mini-program/img-folder/01.png)
+       https://github.com/linguangjie/mini-program/img-folder/01.png)
       
 
         ![Image text]mini-program/img-folder/02.png
